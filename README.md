@@ -7,25 +7,11 @@
 
 ## Project Overview
 
-### Problem 1 - Mass-Spring-Damper
-**Objective:**
-- Model and estimate parameters of a mass-spring-damper system.
+### Problem 1 - Steepest Descend
 
-**Description:**
-- Analyze system to find mass, damping, and spring constant.
-- Convert differential equations to a linear format.
-- Estimate parameters using least squares method.
-- MATLAB implementation involves solving equations, applying filters, and evaluating accuracy.
+### Problem 2 - Lyapunov Method
 
-### Problem 2 - Electric Circuit
-**Objective:**
-- Estimate the circuit's transfer matrix and handle noise issues.
-
-**Description:**
-- Analyze circuit elements and derive differential equations.
-- Linearize equations using filters.
-- Obtain transfer matrix via Laplace transform.
-- Assess circuit behavior and response.
+### Problem 2 - Lyapunov Method on Higher Order System
 
 ## Report
 
@@ -37,4 +23,4 @@ For a detailed explanation of the project's objectives, methods, and results, pl
 
 ## How to Run
 
-Run 'Problem 1/SpringDamperMass.m' and 'Problem 2/main.m' in MATLAB.
+Run 'Problem 1/main.m', 'Problem 2/main.m' and 'Problem 3/main.m' in MATLAB.
